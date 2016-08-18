@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleService2", "sampleService2\sampleService2.csproj", "{32E1086F-3587-4592-B305-61595EF30E21}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{BBD82779-700A-4858-A824-2687D72423CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E1086F-3587-4592-B305-61595EF30E21}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{32E1086F-3587-4592-B305-61595EF30E21}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{32E1086F-3587-4592-B305-61595EF30E21}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{32E1086F-3587-4592-B305-61595EF30E21}.Debug|x86.Build.0 = Debug|Any CPU
+		{32E1086F-3587-4592-B305-61595EF30E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E1086F-3587-4592-B305-61595EF30E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E1086F-3587-4592-B305-61595EF30E21}.Release|x86.ActiveCfg = Release|Any CPU
+		{32E1086F-3587-4592-B305-61595EF30E21}.Release|x86.Build.0 = Release|Any CPU
+		{BBD82779-700A-4858-A824-2687D72423CE}.Debug|Any CPU.ActiveCfg = Release
+		{BBD82779-700A-4858-A824-2687D72423CE}.Debug|Any CPU.Build.0 = Release
+		{BBD82779-700A-4858-A824-2687D72423CE}.Debug|x86.ActiveCfg = Debug
+		{BBD82779-700A-4858-A824-2687D72423CE}.Release|Any CPU.ActiveCfg = Release
+		{BBD82779-700A-4858-A824-2687D72423CE}.Release|Any CPU.Build.0 = Release
+		{BBD82779-700A-4858-A824-2687D72423CE}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

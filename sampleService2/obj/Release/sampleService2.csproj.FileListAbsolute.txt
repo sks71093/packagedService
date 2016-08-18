@@ -1,0 +1,8 @@
+F:\shivam\officialProjectTutorial\sampleService2\sampleService2\bin\Release\sampleService2.exe.config
+F:\shivam\officialProjectTutorial\sampleService2\sampleService2\bin\Release\sampleService2.exe
+F:\shivam\officialProjectTutorial\sampleService2\sampleService2\bin\Release\sampleService2.pdb
+F:\shivam\officialProjectTutorial\sampleService2\sampleService2\obj\Release\sampleService2.ProjectInstaller.resources
+F:\shivam\officialProjectTutorial\sampleService2\sampleService2\obj\Release\sampleService2.csproj.GenerateResource.Cache
+F:\shivam\officialProjectTutorial\sampleService2\sampleService2\obj\Release\sampleService2.exe
+F:\shivam\officialProjectTutorial\sampleService2\sampleService2\obj\Release\sampleService2.pdb
+F:\shivam\officialProjectTutorial\sampleService2\sampleService2\obj\Release\sampleService2.csprojResolveAssemblyReference.cache
